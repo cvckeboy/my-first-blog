@@ -24,10 +24,10 @@ body {
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
+}
 
 .date {
     color: #828282;
-}
 
 .save {
     float: right;
@@ -50,4 +50,10 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+  .comment {
+    margin: 20px 0px 20px 20px;
+    border: 1px solid black;
+    padding: 10px;
 }
